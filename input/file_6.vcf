@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Warden;Khajure;;;
+FN:Khajure Warden
+item1.TEL:+91 93730 91117
+item1.X-ABLabel:Mobile
+END:VCARDBEGIN:VCARD
+VERSION:3.0
+N:Rector;Ranjekar;Sir;;
+FN:Ranjekar Sir Rector
+item1.TEL;waid=919422015217:+91 94220 15217
+item1.X-ABLabel:Mobile
+END:VCARD
